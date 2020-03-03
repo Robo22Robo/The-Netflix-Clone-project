@@ -1,3 +1,8 @@
+The project preview on heroku under the following link:
+
+https://the-netflix-clone-project.herokuapp.com/
+
+
 The Netflix Clone project
 
 Please find below the project description and a guide on how to develop the project.
