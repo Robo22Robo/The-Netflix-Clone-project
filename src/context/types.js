@@ -1,0 +1,1 @@
+export const NETFLIX_USERS = 'NETFLIX_USERS'
